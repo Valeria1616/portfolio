@@ -22,6 +22,7 @@ https://docs.google.com/document/d/1K1aCHl_alrzDFiB75GZBqG0jOUnssFIN0xLKQwewziA/
 https://docs.google.com/document/d/1S9HZYDZUMOGTLzQhNW-bluX2gxdPh0jdJAe5vUWUuAg/edit 
 8.	"Жизненный цикл разработки ПО. Гибкие методологии разработки ПО" –
 https://docs.google.com/document/d/1OxtUGAtTg4nlFXIqTzMAgylIWq-rSXaEUyOqwnDQHMI/edit 
+
 Курсовой проект к модулю «Ручное тестирование веб-приложений»
 https://docs.google.com/document/d/1kDSfYQQMsBrjoZ6sv_RYGlDYzFaNJzV-qbUaMsJrEGU/edit 
 
