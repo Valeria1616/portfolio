@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1C5MYeVfaEDFJo52nU_zLAS3zwGcmrUcwTzn9u_g9yrs/
 5.	"Инструменты тестирования для работы с документацией" – 
 https://docs.google.com/spreadsheets/d/10MLlzEv6Q_ElgBj_9SUI_Os6KrTjSwtQCo_BlpVC6Yg/edit#gid=0 
 https://docs.google.com/document/d/1g-UVGuSvSnRudNE_H2uSRB2nAAYG0JQCq2srurdVc5o/edit 
-6.	 «Особенности тестирования web-приложений и работа с Chrome» - 
+6.	 "Особенности тестирования web-приложений и работа с Chrome" - 
 https://docs.google.com/document/d/1K1aCHl_alrzDFiB75GZBqG0jOUnssFIN0xLKQwewziA/edit 
 7.	"Инструменты тестирования. Клиент-сервер" – 
 https://docs.google.com/document/d/1S9HZYDZUMOGTLzQhNW-bluX2gxdPh0jdJAe5vUWUuAg/edit 
